@@ -1,0 +1,659 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "PGVector",
+        "importPath": "langchain_postgres",
+        "description": "langchain_postgres",
+        "isExtraImport": true,
+        "detail": "langchain_postgres",
+        "documentation": {}
+    },
+    {
+        "label": "PGVector",
+        "importPath": "langchain_postgres",
+        "description": "langchain_postgres",
+        "isExtraImport": true,
+        "detail": "langchain_postgres",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_agent",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "AgentType",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "Tool",
+        "importPath": "langchain.agents",
+        "description": "langchain.agents",
+        "isExtraImport": true,
+        "detail": "langchain.agents",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationBufferMemory",
+        "importPath": "langchain.memory",
+        "description": "langchain.memory",
+        "isExtraImport": true,
+        "detail": "langchain.memory",
+        "documentation": {}
+    },
+    {
+        "label": "chat_response",
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "isExtraImport": true,
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "chat_open_ai_response",
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "isExtraImport": true,
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "chat_dynamic_response",
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "isExtraImport": true,
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "get_formated_answer",
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "isExtraImport": true,
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "get_rag_answer",
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "isExtraImport": true,
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "TextLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain_text_splitters",
+        "description": "langchain_text_splitters",
+        "isExtraImport": true,
+        "detail": "langchain_text_splitters",
+        "documentation": {}
+    },
+    {
+        "label": "setup_vector_store",
+        "importPath": "helpers.vector_store",
+        "description": "helpers.vector_store",
+        "isExtraImport": true,
+        "detail": "helpers.vector_store",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessagePromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessagePromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleJsonOutputParser",
+        "importPath": "langchain.output_parsers.json",
+        "description": "langchain.output_parsers.json",
+        "isExtraImport": true,
+        "detail": "langchain.output_parsers.json",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts.chat",
+        "description": "langchain.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "SystemMessagePromptTemplate",
+        "importPath": "langchain.prompts.chat",
+        "description": "langchain.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessagePromptTemplate",
+        "importPath": "langchain.prompts.chat",
+        "description": "langchain.prompts.chat",
+        "isExtraImport": true,
+        "detail": "langchain.prompts.chat",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "controller.langcahin_model_controller",
+        "description": "controller.langcahin_model_controller",
+        "isExtraImport": true,
+        "detail": "controller.langcahin_model_controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "controller.rag_controller",
+        "description": "controller.rag_controller",
+        "isExtraImport": true,
+        "detail": "controller.rag_controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "isExtraImport": true,
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "QueryRequest",
+        "kind": 6,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "class QueryRequest(BaseModel):\n    query: str\n    session_id: Optional[str] = None\nclass ConversationHistory(BaseModel):\n    human: str\n    ai: str\n    timestamp: datetime\n# --------------------\n# Tool 1: Search Docs (Vector Search) - IMPROVED\n# --------------------",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ConversationHistory",
+        "kind": 6,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "class ConversationHistory(BaseModel):\n    human: str\n    ai: str\n    timestamp: datetime\n# --------------------\n# Tool 1: Search Docs (Vector Search) - IMPROVED\n# --------------------\ndef search_docs_tool(query: str) -> str:\n    \"\"\"\n    Vector search against uploaded documents about RCC (RAO Cooling Center).",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "search_docs_tool",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def search_docs_tool(query: str) -> str:\n    \"\"\"\n    Vector search against uploaded documents about RCC (RAO Cooling Center).\n    This tool searches the company's document database for relevant information.\n    Input: user query string\n    Output: concatenated relevant text snippets or a no result message\n    \"\"\"\n    try:\n        # Get database connection URL from environment variables\n        db_url = os.getenv(\"DATABASE_URI\")",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_time_tool",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def get_current_time_tool(_: str) -> str:\n    \"\"\"\n    Returns current UTC date and time.\n    The input parameter is ignored but required by LangChain tool interface.\n    \"\"\"\n    now = datetime.utcnow()\n    return f\"Current UTC time: {now.strftime('%Y-%m-%d %H:%M:%S')}\"\nget_current_time = Tool(\n    name=\"get_current_time\",\n    func=get_current_time_tool,",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_tool",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def calculator_tool(expression: str) -> str:\n    \"\"\"\n    Safe mathematical expression evaluator.\n    Only allows basic arithmetic operations for security.\n    Supports: +, -, *, /, parentheses, numbers, spaces\n    \"\"\"\n    try:\n        # Define allowed characters for security (prevent code injection)\n        allowed_chars = \"0123456789+-*/(). \"\n        if any(c not in allowed_chars for c in expression):",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_agent_with_memory",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def create_agent_with_memory(session_id: str):\n    \"\"\"\n    Creates an agent with conversation memory for the given session.\n    The agent is configured to give short, focused responses and prioritize document search.\n    \"\"\"\n    # Initialize ChatGPT model with specific parameters for concise responses\n    llm = ChatOpenAI(\n        model=\"gpt-4\", \n        temperature=0,  # Set to 0 for consistent, deterministic responses\n        max_tokens=100,  # LIMIT response length to keep answers short",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_session",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def create_new_session() -> str:\n    \"\"\"\n    Creates a new conversation session with unique UUID.\n    Returns the session ID for future reference.\n    \"\"\"\n    session_id = str(uuid.uuid4())\n    # Initialize session data structure\n    conversation_sessions[session_id] = {\n        \"created_at\": datetime.utcnow(),\n        \"messages\": [],  # List to store conversation history",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_session_history",
+        "kind": 2,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "def update_session_history(session_id: str, human_msg: str, ai_msg: str):\n    \"\"\"\n    Updates the conversation history for a given session.\n    Creates session if it doesn't exist.\n    \"\"\"\n    # Create session if it doesn't exist (safety check)\n    if session_id not in conversation_sessions:\n        conversation_sessions[session_id] = {\n            \"created_at\": datetime.utcnow(),\n            \"messages\": [],",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "router = APIRouter()\n# In-memory storage for conversation sessions\n# In production, consider using Redis or database storage for scalability\nconversation_sessions: Dict[str, Dict] = {}\n# Request models for API validation\nclass QueryRequest(BaseModel):\n    query: str\n    session_id: Optional[str] = None\nclass ConversationHistory(BaseModel):\n    human: str",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "search_docs",
+        "kind": 5,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "search_docs = Tool(\n    name=\"search_docs\",\n    func=search_docs_tool,\n    description=\"\"\"\n    ALWAYS use this tool when users ask about:\n    - Services, products, or offerings\n    - Company information (RCC - RAO Cooling Center)\n    - What we do, what we provide, our work\n    - Any business-related questions\n    - Company policies or procedures",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_time",
+        "kind": 5,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "get_current_time = Tool(\n    name=\"get_current_time\",\n    func=get_current_time_tool,\n    description=\"Returns the current UTC date and time. Use when user asks about time or date.\"\n)\n# --------------------\n# Tool 3: Calculator (Simple math evaluator)\n# --------------------\ndef calculator_tool(expression: str) -> str:\n    \"\"\"",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "calculator",
+        "kind": 5,
+        "importPath": "controller.agentic_ai_controller",
+        "description": "controller.agentic_ai_controller",
+        "peekOfCode": "calculator = Tool(\n    name=\"calculator\",\n    func=calculator_tool,\n    description=\"Evaluates simple mathematical expressions safely. Use for calculations and math problems.\"\n)\n# --------------------\n# Create agent with memory for a specific session - IMPROVED\n# --------------------\ndef create_agent_with_memory(session_id: str):\n    \"\"\"",
+        "detail": "controller.agentic_ai_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ChatQuery",
+        "kind": 6,
+        "importPath": "controller.langcahin_model_controller",
+        "description": "controller.langcahin_model_controller",
+        "peekOfCode": "class ChatQuery(BaseModel):\n    query:str\nclass ContentTopic(BaseModel):\n    topic:str\nclass Content(BaseModel):\n    content:str\n@router.post(\"/chat_bot\")\nasync def chat_bot(data:ChatQuery):\n    try:\n     response = chat_response(data.query)",
+        "detail": "controller.langcahin_model_controller",
+        "documentation": {}
+    },
+    {
+        "label": "ContentTopic",
+        "kind": 6,
+        "importPath": "controller.langcahin_model_controller",
+        "description": "controller.langcahin_model_controller",
+        "peekOfCode": "class ContentTopic(BaseModel):\n    topic:str\nclass Content(BaseModel):\n    content:str\n@router.post(\"/chat_bot\")\nasync def chat_bot(data:ChatQuery):\n    try:\n     response = chat_response(data.query)\n     return {\n         \"query\":data.query,",
+        "detail": "controller.langcahin_model_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Content",
+        "kind": 6,
+        "importPath": "controller.langcahin_model_controller",
+        "description": "controller.langcahin_model_controller",
+        "peekOfCode": "class Content(BaseModel):\n    content:str\n@router.post(\"/chat_bot\")\nasync def chat_bot(data:ChatQuery):\n    try:\n     response = chat_response(data.query)\n     return {\n         \"query\":data.query,\n         \"response\":response\n     }  ",
+        "detail": "controller.langcahin_model_controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "controller.langcahin_model_controller",
+        "description": "controller.langcahin_model_controller",
+        "peekOfCode": "router = APIRouter()\nclass ChatQuery(BaseModel):\n    query:str\nclass ContentTopic(BaseModel):\n    topic:str\nclass Content(BaseModel):\n    content:str\n@router.post(\"/chat_bot\")\nasync def chat_bot(data:ChatQuery):\n    try:",
+        "detail": "controller.langcahin_model_controller",
+        "documentation": {}
+    },
+    {
+        "label": "RequestBody",
+        "kind": 6,
+        "importPath": "controller.rag_controller",
+        "description": "controller.rag_controller",
+        "peekOfCode": "class RequestBody(BaseModel):\n    query:str\n@router.post(\"/upload\")\nasync def make_embedings(file: UploadFile = File(...)):\n    try:\n        # 1. Read uploaded file content\n        contents = await file.read()\n        parts = file.filename.rsplit('.', 1)\n        if len(parts) == 2:\n            extension = parts[1]",
+        "detail": "controller.rag_controller",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "controller.rag_controller",
+        "description": "controller.rag_controller",
+        "peekOfCode": "router = APIRouter()\nclass RequestBody(BaseModel):\n    query:str\n@router.post(\"/upload\")\nasync def make_embedings(file: UploadFile = File(...)):\n    try:\n        # 1. Read uploaded file content\n        contents = await file.read()\n        parts = file.filename.rsplit('.', 1)\n        if len(parts) == 2:",
+        "detail": "controller.rag_controller",
+        "documentation": {}
+    },
+    {
+        "label": "chat_response",
+        "kind": 2,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "def chat_response(query):\n    return llm.invoke(query)\n#simple response \ndef chat_open_ai_response(query):\n    response = model.invoke(query)\n    return response.content if response.content else None\n#Define prompt template with placeholders for dynamic input\ntemplate = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(\n        \"You're an AI that writes SEO-friendly content about {topic}.\"",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "chat_open_ai_response",
+        "kind": 2,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "def chat_open_ai_response(query):\n    response = model.invoke(query)\n    return response.content if response.content else None\n#Define prompt template with placeholders for dynamic input\ntemplate = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(\n        \"You're an AI that writes SEO-friendly content about {topic}.\"\n    ),\n    MessagesPlaceholder(\"history\", optional=True),\n    HumanMessagePromptTemplate.from_template(",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "chat_dynamic_response",
+        "kind": 2,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "def chat_dynamic_response(topic: str, history=None):\n    history = history or []\n    prompt_value = template.invoke({\n        \"history\": history,\n        \"topic\": topic\n    })\n    result = model.invoke(prompt_value.messages)\n    return result.content\n#llm chains with user define output formate \nmessage_template = ChatPromptTemplate.from_messages([",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "get_formated_answer",
+        "kind": 2,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "def get_formated_answer(content):\n    # prompt_template = message_template.invoke({\n    #     \"content\":content\n    # })\n    chain = message_template | model | parser\n    response = chain.invoke({\"content\":content})\n    return response\nrag_template = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(\n        \"You're a help assistant. Your main goal is to answer the user query only using the related knowledge base.\"",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "llm = OpenAI(model=\"gpt-3.5-turbo-instruct\",temperature=0.7)\n#new way to get response \nparser = SimpleJsonOutputParser()\nmodel = ChatOpenAI(model=\"gpt-3.5-turbo\",temperature=0.7)\ndef chat_response(query):\n    return llm.invoke(query)\n#simple response \ndef chat_open_ai_response(query):\n    response = model.invoke(query)\n    return response.content if response.content else None",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "parser = SimpleJsonOutputParser()\nmodel = ChatOpenAI(model=\"gpt-3.5-turbo\",temperature=0.7)\ndef chat_response(query):\n    return llm.invoke(query)\n#simple response \ndef chat_open_ai_response(query):\n    response = model.invoke(query)\n    return response.content if response.content else None\n#Define prompt template with placeholders for dynamic input\ntemplate = ChatPromptTemplate.from_messages([",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "model = ChatOpenAI(model=\"gpt-3.5-turbo\",temperature=0.7)\ndef chat_response(query):\n    return llm.invoke(query)\n#simple response \ndef chat_open_ai_response(query):\n    response = model.invoke(query)\n    return response.content if response.content else None\n#Define prompt template with placeholders for dynamic input\ntemplate = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "template = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(\n        \"You're an AI that writes SEO-friendly content about {topic}.\"\n    ),\n    MessagesPlaceholder(\"history\", optional=True),\n    HumanMessagePromptTemplate.from_template(\n        \"Please write in detail about the topic: {topic}.\"\n    )\n])\ndef chat_dynamic_response(topic: str, history=None):",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "message_template",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "message_template = ChatPromptTemplate.from_messages([\n    (\"system\",\"You'r a helpfull assistant create to give the interview question and answer user will provide the content and you have to provide the both interview quesion and answer from this content/n The formate should be an array of object and every dictionary in json like formate contain a answer and question at least 5 question\"),\n    (\"user\",\"Provide the all possible qestion and answer from the following content {content}\")\n])\ndef get_formated_answer(content):\n    # prompt_template = message_template.invoke({\n    #     \"content\":content\n    # })\n    chain = message_template | model | parser\n    response = chain.invoke({\"content\":content})",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "rag_template",
+        "kind": 5,
+        "importPath": "helpers.langchian_respone",
+        "description": "helpers.langchian_respone",
+        "peekOfCode": "rag_template = ChatPromptTemplate.from_messages([\n    SystemMessagePromptTemplate.from_template(\n        \"You're a help assistant. Your main goal is to answer the user query only using the related knowledge base.\"\n        \"If the knowledge base is not enough, simply say 'I don't have idea'. Don't answer questions outside of this content. the answer shold not be too big just a few lines and make sure cover the content in short.\"\n    ),\n    HumanMessagePromptTemplate.from_template(\n        \"Answer this query: {query} from this content: {content}\"\n    ),\n])\nasync def get_rag_answer(content,query):",
+        "detail": "helpers.langchian_respone",
+        "documentation": {}
+    },
+    {
+        "label": "setup_vector_store",
+        "kind": 2,
+        "importPath": "helpers.vector_store",
+        "description": "helpers.vector_store",
+        "peekOfCode": "def setup_vector_store():\n    connection_url =   os.getenv(\"DATABASE_URI\")\n    if not connection_url:\n        raise RuntimeError(\"DATABASE_URI environment variable is not set\")\n    connection = connection_url.replace(\"postgres://\", \"postgresql+psycopg://\")  # sync version\n    embeddings = OpenAIEmbeddings(\n        model=\"text-embedding-3-large\",\n    )\n    vector_store = PGVector(\n        connection=connection,",
+        "detail": "helpers.vector_store",
+        "documentation": {}
+    },
+    {
+        "label": "welcom",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def welcom():\n    return {\"message\":\"Welcome to langcahin\"}",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(router=router,prefix=\"/simple\", tags=[\"Simple Ai \"])\napp.include_router(router=rag_router,prefix=\"/rag\", tags=[\"Rag ai\"])\napp.include_router(router=agentic_router,prefix=\"/agentic\", tags=[\"Agentic Ai\"])\n@app.get(\"/welcome\")\ndef welcom():\n    return {\"message\":\"Welcome to langcahin\"}",
+        "detail": "main",
+        "documentation": {}
+    }
+]
